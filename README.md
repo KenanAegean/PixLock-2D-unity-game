@@ -10,7 +10,7 @@
 
 <h3>DESCRIPTION</h3>
 Demo game project created by me.
-Thanks for playing!
+<br></bre>Thanks for playing!
 
 <br><b>Screenshots</b>
 
